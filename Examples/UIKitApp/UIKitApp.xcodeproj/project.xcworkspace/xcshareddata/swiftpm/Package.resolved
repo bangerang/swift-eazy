@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-custom-dump",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-custom-dump",
+      "state" : {
+        "revision" : "c4f78db9b90ca57b7b6abc2223e235242739ea3c",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "swift-eazy",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:bangerang/swift-eazy.git",
+      "state" : {
+        "revision" : "d90dae4432e11b5eb6d3c107801c9d3fc7bc2059",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "50a70a9d3583fe228ce672e8923010c8df2deddd",
+        "version" : "0.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
